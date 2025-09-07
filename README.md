@@ -22,4 +22,7 @@ This analysis helped to identify significant differences in loan costs among dif
 ## Tools Used
 
 - Microsoft Excel  
-- PMT and other financial formulas  
+- PMT and other financial formulas
+
+- Note: The Excel file used for the analysis (including formulas and details) has not been included in this public repository. It can be shared via a Google Drive link upon request to interested employers.
+- Not: Analizlerde kullanılan Excel dosyası (formüller ve ayrıntılar) public repoya eklenmemiştir. İlgilenen işverenlerle talep üzerine Google Drive linki üzerinden paylaşabilirim.
